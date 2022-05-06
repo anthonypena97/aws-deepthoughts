@@ -31,7 +31,7 @@ In order to use application, enter http://18.216.240.2/ in your Web Browser url 
 
 ## Installation
 
-* As this uses AWS, in order to run and modify your own copy, you will have to sign up for [AWS](https://aws.amazon.com) in order to configure the project with your own services keys
+* As this uses AWS, in order to run and modify your own copy, you will have to sign up for [AWS](https://aws.amazon.com) in order to configure the project with your own services keys*
 
 To install on your machine for your own use:
 
