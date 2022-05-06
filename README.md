@@ -60,7 +60,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Version History
 
 - v1.0.0 is latest version
-  - - See [commit change](https://github.com/anthonypena97/aws-deepthougts/commits/main) or See [release history](https://github.com/anthonypena97/aws-deepthoughts/releases)
+  - - See [commit change](https://github.com/anthonypena97/aws-deepthoughts/commits/main) or See [release history](https://github.com/anthonypena97/aws-deepthoughts/releases)
 
 ## Contributing
 
